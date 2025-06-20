@@ -14,7 +14,7 @@ LENNA features:
 
 ## Demo
 
-[demo](https://www.linkedin.com/posts/do%C4%9Fukan-yal%C3%A7in-1a32b021a_stm32-satellite-embedded-activity-6981952442833756160-C_kC?utm_source=share&utm_medium=member_desktop)
+[demo](https://drive.google.com/drive/folders/1Fe_MGLuqpe8FZogZed80upGMTa9hC-d2?usp=sharing)
 
 
 
